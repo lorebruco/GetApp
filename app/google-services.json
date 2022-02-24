@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "959458651611",
+    "firebase_url": "https://medapp-7bcef-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "medapp-7bcef",
+    "storage_bucket": "medapp-7bcef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959458651611:android:b615d88265fb2e17710bfe",
+        "android_client_info": {
+          "package_name": "com.example.medicinaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959458651611-7ol0i42d66gpctvhskicr4lqtna0r2v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcECMQIK-wAHAJPXS1VmaYxLlDGJBAy5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959458651611-7ol0i42d66gpctvhskicr4lqtna0r2v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959458651611:android:d389b57d481ea399710bfe",
+        "android_client_info": {
+          "package_name": "com.example.mymedapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959458651611-7ol0i42d66gpctvhskicr4lqtna0r2v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcECMQIK-wAHAJPXS1VmaYxLlDGJBAy5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959458651611-7ol0i42d66gpctvhskicr4lqtna0r2v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959458651611:android:6def7097679c1178710bfe",
+        "android_client_info": {
+          "package_name": "com.example.progettoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959458651611-7ol0i42d66gpctvhskicr4lqtna0r2v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcECMQIK-wAHAJPXS1VmaYxLlDGJBAy5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959458651611-7ol0i42d66gpctvhskicr4lqtna0r2v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959458651611:android:4db17e22873ec4b9710bfe",
+        "android_client_info": {
+          "package_name": "com.rajendra.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959458651611-7ol0i42d66gpctvhskicr4lqtna0r2v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcECMQIK-wAHAJPXS1VmaYxLlDGJBAy5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959458651611-7ol0i42d66gpctvhskicr4lqtna0r2v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959458651611:android:6361937c79864f31710bfe",
+        "android_client_info": {
+          "package_name": "com.rajendra.medapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959458651611-7ol0i42d66gpctvhskicr4lqtna0r2v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcECMQIK-wAHAJPXS1VmaYxLlDGJBAy5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959458651611-7ol0i42d66gpctvhskicr4lqtna0r2v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

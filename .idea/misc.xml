@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/drawable/cart_button_bg.xml" value="0.1" />
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/drawable/detail_page_bg.xml" value="0.1" />
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1" />
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1" />
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/drawable/ic_homebg.xml" value="0.1" />
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/drawable/ic_menu.xml" value="0.1" />
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/drawable/ic_prevention1.xml" value="0.1" />
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/drawable/ic_rectangle_3.xml" value="0.1" />
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/layout/activity_caricamento.xml" value="0.25" />
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/layout/activity_login.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/layout/activity_prodotti.xml" value="0.33" />
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/layout/activity_productdetails.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/layout/activity_reminder.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/layout/activity_signup.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/layout/activity_statistics.xml" value="0.33" />
+        <entry key="..\:/Users/loreb/Desktop/progettoapp/app/src/main/res/layout/ic_baseline_info_24.xml" value="0.20462962962962963" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
